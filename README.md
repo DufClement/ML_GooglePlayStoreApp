@@ -1,7 +1,7 @@
 # ML_GooglePlayStoreApp
 
 # Sujet
-Réalisation avec un jeu de données préétabli d'une prédiction de données pour du machine learning 
+Réalisation d'une prédiction de données pour du machine learning avec un jeu de données préétabli 
 
 ## Jeu de données CSV
 Telecharger le fichier "googleplaystore.csv" sur le lien suivant : https://www.kaggle.com/lava18/google-play-store-apps?select=googleplaystore.csv
